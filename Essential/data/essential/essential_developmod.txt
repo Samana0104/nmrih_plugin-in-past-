@@ -1,0 +1,15 @@
+"viewoffset"
+{
+	"my_offset"
+	{
+		"_vaccinated"
+		{
+			"name" "백신"
+			"type" "int"
+		}
+	}
+	
+	"target_offset"
+	{
+	}
+}

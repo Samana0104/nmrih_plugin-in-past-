@@ -1,0 +1,14 @@
+﻿essential 본체
+- 처음 메뉴 관련 정리
+
+essential api
+- 에센셜에 필요한 간단한 api가 있습니다.
+
+essential_admin_menu
+- 메뉴마다 고유 함수가 있습니다. 
+
+essential_user_menu
+- essential_admin_menu 에서는 함수나 변수같은건 적지않으며 메뉴만 적고
+메뉴내에 있는 함수는 전부 어드민 관련 메뉴에서 가져와서 씀.
+
+String으로 된 전역변수는 Get Set 함수 없습니다. 유의하세요

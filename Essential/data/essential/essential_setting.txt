@@ -1,0 +1,15 @@
+"settings"
+{
+	"menucontrol"
+	{
+		"user_tool"		"1"
+		"user_sethome"		"1"
+		"user_sendtochat"		"1"
+		"user_invsee"		"1"
+		"user_teleport"		"1"
+	}
+	"essential"
+	{
+		"chat_function"		"1"
+	}
+}

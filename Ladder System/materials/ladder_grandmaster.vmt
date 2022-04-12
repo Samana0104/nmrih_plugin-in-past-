@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$receiveflashlight"	1
+	"$singlepassflashlight"	1
+	"$basetexture" "ladder_grandmaster"
+	"$alphatest" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+}

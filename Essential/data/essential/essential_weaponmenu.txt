@@ -1,0 +1,258 @@
+"weapon"
+{
+    "권총"
+	{
+		"fa_glock17"
+		{
+		}
+		
+		"fa_m92fs"
+		{
+		}
+		
+		"fa_mkiii"
+		{
+		}
+		
+		"fa_sw686"
+		{
+		}
+		
+		"fa_1911"
+		{
+		}
+	}
+	
+    "라이플" 
+	{
+		"fa_1022"
+		{
+		}
+	    
+		"fa_1022_25mag"
+		{
+		}
+		
+		"fa_sks"
+		{
+		}
+		
+		"fa_sks_nobayo"
+		{
+		}
+		
+		"fa_cz858"
+		{
+		}
+		
+		"fa_fnfal"
+		{
+		}
+		
+		"fa_mac10"
+		{
+		}
+		
+		"fa_mp5a3"
+		{
+		}
+		
+		"fa_m16a4"
+		{
+		}
+		
+		"fa_m16a4_carryhandle"
+		{
+		}
+	}
+	
+	"샷건"
+	{
+		"fa_870"
+		{
+		}
+		
+		"fa_superx3"
+		{
+		}
+		
+		"fa_sv10"
+		{
+		}
+		
+		"fa_500a"
+		{
+		}
+		
+		"fa_winchester1892"
+		{
+		}
+	}
+	
+	"스나이퍼"
+	{
+		"fa_sako85"
+		{
+		}
+		
+		"fa_sako85_ironsights"
+		{
+		}
+		
+		"fa_jae700"
+		{
+		}
+		
+		"bow_deerhunter"
+		{
+		}
+	}
+	
+	"근접"
+	{
+		"me_chainsaw"
+		{
+		}
+		
+		"me_abrasivesaw"
+		{
+		}
+		
+		"me_axe_fire"
+		{
+		}
+		
+		"me_bat_metal"
+		{
+		}
+		
+		"me_crowbar"
+		{
+		}
+		
+		"me_etool"
+		{
+		}
+		
+		"me_fubar"
+		{
+		}
+		
+		"me_hatchet"
+		{
+		}
+		
+		"me_kitknife"
+		{
+		}
+		
+		"me_cleaver"
+		{
+		}
+		
+		"me_machete"
+		{
+		}
+		
+		"me_pipe_lead"
+		{
+		}
+		
+		"me_shovel"
+		{
+		}
+		
+		"me_sledge"
+		{
+		}
+		
+		"me_wrench"
+		{
+		}
+		
+		"me_pickaxe"
+		{
+		}
+	}
+	
+	"도구"
+	{
+		"item_pills"
+		{
+		}
+		
+		"item_first_aid"
+		{
+		}
+		
+		"item_gene_therapy"
+		{
+		}
+		
+		"item_bandages"
+		{
+		}
+	
+		"exp_grenade"
+		{
+		}
+		
+		"exp_tnt"
+		{
+		}
+		
+		"exp_molotov"
+		{
+		}
+		
+		"tool_extinguisher"
+		{
+		}
+		
+		"tool_welder"
+		{
+		}
+		
+		"tool_barricade"
+		{
+		}
+		
+		"tool_flare_gun"
+		{
+		}
+		
+		"item_walkietalkie"
+		{
+		}
+		
+		"item_maglite"
+		{
+		}
+	}
+	"특수"
+	{
+	    "nmrih_health_station"
+		{
+		}
+		
+		"nmrih_health_station_location"
+		{
+		}
+		
+		"nmrih_safezone_supply"
+		{
+		}
+		
+		"nmrih_safezone_supply_piece"
+		{
+		}
+		
+		"item_glowstick"
+		{
+		}
+		
+		"item_inventory_box"
+		{
+		}
+	}
+}
