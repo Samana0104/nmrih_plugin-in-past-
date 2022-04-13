@@ -6,10 +6,10 @@
 
 public Plugin:myinfo = {
 	name = "StaminaHud",
-	author = "SimSIm",
+	author = "Samana",
 	description = "플러그인 신청작.",
 	version = PLUGIN_VERSION,
-	url = "https://app.box.com/s/fn7p1knhkawpay6pums7o0wn5o0rhwl0"
+	url = ""
 };
 
 new Handle:showHudTimer = INVALID_HANDLE;
@@ -40,7 +40,6 @@ public Action:staminaHud(Handle:timer, any:data) {
 			ShowHudText(i, -1, "Stamina : ● ● ● ● ● ○");	
 			else if(staminaPercent <= 100) // 스태미너 퍼센트가 100퍼센트보다 작을시
 			ShowHudText(i, -1, "Stamina : ● ● ● ● ● ●");	
-			// if 실행순서상 위에서부터 밑으로 오름차순으로 쓰셔야 되요!
 		}
 	}
 }
