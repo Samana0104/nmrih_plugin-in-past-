@@ -298,14 +298,6 @@ public EssentialUserDevelopCreditMenuCreate(client) {
 	new Handle:menu = CreateMenu(EssentialUserDevelopCreditMenuHandler);
 	
 	SetMenuTitle(menu, "개발자:사마나 - 도움 주신분");
-	AddMenuItem(menu, "오늘도 사마나", "Mr.halt(플러그인 관련 도움)", ITEMDRAW_DISABLED);
-	AddMenuItem(menu, "뽕에 취하고", "Zerosg(플러그인 관련 도움)", ITEMDRAW_DISABLED);
-	AddMenuItem(menu, "가겠습니다.", "ys24ys(플러그인 참조)", ITEMDRAW_DISABLED);
-	AddMenuItem(menu, "안 그렇습니까?", "Corpse(서버 관련)", ITEMDRAW_DISABLED);
-	AddMenuItem(menu, "그렇죠 ㅎㅎ", "Amel(기능 관련)", ITEMDRAW_DISABLED);
-	AddMenuItem(menu, "플러그인은 뭐다?", "차니(플러그인 테스터)", ITEMDRAW_DISABLED);
-	AddMenuItem(menu, "당연히 사마나의 에센셜!", "Lifealope(플러그인 테스터)", ITEMDRAW_DISABLED);
-	// ㅋㅋㅋ?????? 써준분꼐는 항상 감사드립니다.
 	
 	SetMenuExitButton(menu, true);
 	SetMenuExitBackButton(menu, true);
